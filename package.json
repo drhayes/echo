@@ -21,7 +21,7 @@
     "micro": "9.0.0"
   },
   "devDependencies": {
-    "nodemon": "1.14.11"
+    "nodemon": "^1.18.6"
   },
   "engines": {
     "node": "8.4.0"
